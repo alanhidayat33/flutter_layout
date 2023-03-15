@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_layout/model/tourism_place_tugas2.dart';
+import 'package:flutter_layout/model/tourism_place_latihan.dart';
 
 class DetailScreen extends StatelessWidget{
   const DetailScreen({Key? key, required this.place}) : super(key : key);
