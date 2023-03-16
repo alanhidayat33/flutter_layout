@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
-//import 'package:flutter_layout/main_screen.dart';
-import 'package:flutter_layout/main_screen_latiahnpt2.dart';
-import 'package:flutter_layout/detail_screen_tugaspt1.dart';
+//untuk pt1
+//import 'package:flutter_layout/main_percobaan4.dart';
+//import 'package:flutter_layout/detail_screen_tugaspt1.dart';
+
+//pt2
+import 'package:flutter_layout/main_screen.dart';
 
 void main() {
   runApp(const MyApp());
